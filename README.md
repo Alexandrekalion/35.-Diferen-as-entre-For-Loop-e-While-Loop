@@ -54,4 +54,4 @@ Projeto de estudo. Nao representa uma aplicacao de producao e deve ser apresenta
 
 ## Autoria
 
-Desenvolvido por Michele Santana — Kalion Tecnologia.
+Desenvolvido por Alexandre Santana dos Santos — Kalion Tecnologia.
